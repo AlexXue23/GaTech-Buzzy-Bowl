@@ -1,2 +1,3 @@
 *.xml linguist-language=C++
 *.h linguist-language=C++
+*.targets linguist-language=C++
